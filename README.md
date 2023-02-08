@@ -1,2 +1,0 @@
-# _Fireleaf
-Content stealer
